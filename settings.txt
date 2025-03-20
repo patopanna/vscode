@@ -1,0 +1,13 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.fontSize": 18,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "window.newWindowDimensions": "inherit",
+  "git.ignoreMissingGitWarning": true,
+  "window.zoomLevel": -1,
+  "git.openRepositoryInParentFolders": "never",
+  "explorer.confirmDelete": false
+}
