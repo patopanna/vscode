@@ -9,5 +9,7 @@
   "git.ignoreMissingGitWarning": true,
   "window.zoomLevel": -1,
   "git.openRepositoryInParentFolders": "never",
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "code-runner.runInTerminal": true,
+  "cSpell.dictionaryDefinitions": []
 }
